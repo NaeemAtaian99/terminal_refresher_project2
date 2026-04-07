@@ -1,3 +1,5 @@
+# This change has been made directly on GitHub
+
 # A simple script for our refresher project
 	
 project_name = input("What is the project name? ")
