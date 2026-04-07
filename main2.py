@@ -1,2 +1,5 @@
-"This is another attempt at a refresher of basic commands to create folders, files, and repo push/pull"
-print("Refresher workflow script is running...")
+# A simple script for our refresher project
+	
+project_name = input("What is the project name? ")
+
+print("This project is:", project_name)
